@@ -1,2 +1,2 @@
-# nipseeker.html
+# nipseeker
 Aplikasi sederhana buat generate NIP PPPK
